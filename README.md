@@ -14,7 +14,7 @@ The service runs on port 8080.
 
 `GET /contracts` returns a list of sample contracts.
 
-`GET /line-item-contracts' returns a list of a sample line item contract,
-including info on each line item.`
+`GET /line-item-contracts` returns a list of a sample line item contract,
+including info on each line item.
 
 `GET /invoices` returns a list of sample invoices.
